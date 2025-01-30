@@ -1,4 +1,5 @@
 <h1>JWipe - Disk Sanitization</h1>
+<!-- This is a template to be used for next personal project --!>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
